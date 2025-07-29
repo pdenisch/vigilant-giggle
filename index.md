@@ -17,3 +17,6 @@ Adding some code examples
 ``` postscript
 27 34 add
 ```
+Add a task list
+- [X] Do the first thing
+- [ ] Do the second thing
